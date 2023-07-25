@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usersoryu00
 - 👀 Estou interessada em jogos
-- 📫 Como chegar até mim: instagram
+- 📫 Como chegar até mim: instagram soryu002
 
 <!---
 usersoryu00/usersoryu00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
